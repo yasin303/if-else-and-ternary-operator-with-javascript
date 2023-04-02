@@ -32,3 +32,8 @@ let score = 110
 //expected output
 score: invalid
 ```
+
+
+## CONCLUSION
+ternary = only 2 conditions
+if-else = can be more than 2 conditions
