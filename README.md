@@ -18,3 +18,17 @@ let score = 100
 //expected output
 name: Ardian; score: A
 ```
+
+
+# TERNARY OPERATOR with JS
+A teacher inputs student scores with the following 2 conditions:
+* Score 100 = score inputed
+* Score > 100 = score invalid
+
+```
+//inputs:
+let score = 110
+
+//expected output
+score: invalid
+```
