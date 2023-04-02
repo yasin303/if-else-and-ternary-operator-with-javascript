@@ -35,5 +35,5 @@ score: invalid
 
 
 ## CONCLUSION
-ternary = only 2 conditions
-if-else = can be more than 2 conditions
+* ternary = only 2 conditions
+* if-else = can be more than 2 conditions
